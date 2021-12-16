@@ -1,0 +1,119 @@
+body {
+    background-color: aliceblue;
+}
+
+input {
+    background: grey;
+}
+
+.book_mainDiv {
+    border: 1px solid #cccccc;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.book_mainDiv img {
+    width: 100%;
+}
+
+.book_mainDiv hr {
+    width: 230px;
+}
+
+.book_mainDiv h5,
+.book_mainDiv p {
+    margin-left: 20px;
+}
+
+
+.book_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color: darkcyan;
+    font-family: serif;
+}
+
+.book_head i {
+    float: right;
+}
+
+.book_text span {
+    color: yellow;
+}
+
+#img {
+    width: 800px;
+}
+
+#arrow {
+    padding-left: 640px;
+    float: left;
+}
+
+#divy {
+    font-size: 20px;
+    background-color: darkcyan;
+    width: 1142px;
+    height: 60px;
+    border-radius: 10px;
+    color: white;
+}
+
+#lefter {
+    float: left;
+    padding-left: 25px;
+    padding-top: 9px;
+}
+
+#getaway {
+    width: 260px;
+    float: left;
+    margin-left: 203px;
+}
+
+#i1 {
+    color: yellow;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#i2 {
+    color: yellow;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#i3 {
+    color: yellow;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#i4 {
+    color: yellow;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#i5 {
+    color: yellow;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#capitalize {
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+    height: 10px;
+}
+
+#aaa {
+    margin-top: 30px;
+    margin-left: 20px;
+}
